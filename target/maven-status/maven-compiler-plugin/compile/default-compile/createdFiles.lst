@@ -1,0 +1,10 @@
+com\francesco\demoprj\Main.class
+com\francesco\demoprj\controller\ExamsController.class
+com\francesco\demoprj\model\Student.class
+com\francesco\demoprj\controller\StudentController.class
+com\francesco\demoprj\service\ExamsService.class
+com\francesco\demoprj\repository\ExamsRepository.class
+com\francesco\demoprj\controller\StudentControllerHateoas.class
+com\francesco\demoprj\service\StudentService.class
+com\francesco\demoprj\model\Exams.class
+com\francesco\demoprj\repository\StudentRepository.class
